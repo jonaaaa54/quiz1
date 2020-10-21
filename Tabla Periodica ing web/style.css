@@ -1,0 +1,40 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#tabla1 {
+    margin: 25px 0 0 25px;
+    position: relative;
+    left: 20px;
+}
+
+#tabla2 {
+    position: relative;
+    left: 160px;
+}
+
+#tabla3 {
+    margin: 25px 0 0 25px;
+    position: relative;
+    top: -293px;
+    left: 700px;
+}
+
+#tabla4 {
+    position: relative;
+    left: 100px;
+    top: -180px;
+}
+
+td,
+th {
+    width: 50px;
+    text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    vertical-align: top;
+}
+
+.cientifica {
+    color: blue;
+}
